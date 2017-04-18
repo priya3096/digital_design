@@ -1,0 +1,3 @@
+verilog work "fsm1.v"
+verilog work "test_fsm1.v"
+verilog work "D:/Softwares/Xilinx/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
